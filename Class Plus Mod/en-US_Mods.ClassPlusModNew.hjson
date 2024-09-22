@@ -1,0 +1,3495 @@
+Items: {
+	Mage_t1: {
+		Tooltip:
+			'''
+			Increase +10% magic damage.
+			Basic class - Tier 1.
+			'''
+		DisplayName: Sorcerer Emblem
+	}
+
+	Mage_Core: {
+		DisplayName: Sorcerer Core
+		Tooltip:
+			'''
+			The Sorcerer Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	Empty_Class_Emblem: {
+		DisplayName: Empty Class Emblem
+		Tooltip:
+			'''
+			A universal emblem, use it with one of the Class Cores to create
+			your Class Emblem.
+			'''
+	}
+
+	Warrior_t1: {
+		DisplayName: Warrior Emblem
+		Tooltip:
+			'''
+			Increase +10% melee damage.
+			Basic class - Tier 1.
+			'''
+	}
+
+	Warrior_Core: {
+		DisplayName: Warrior Core
+		Tooltip:
+			'''
+			The Warrior Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	Ranged_t1: {
+		DisplayName: Ranger Emblem
+		Tooltip:
+			'''
+			Increase +10% ranged damage.
+			Basic class - Tier 1.
+			'''
+	}
+
+	Ranged_Core: {
+		DisplayName: Ranger Core
+		Tooltip:
+			'''
+			The Ranged Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	Summoner_t1: {
+		DisplayName: Summoner Emblem
+		Tooltip:
+			'''
+			Increase +10% summon damage.
+			Basic class - Tier 1.
+			'''
+	}
+
+	Summoner_Core: {
+		DisplayName: Summoner Core
+		Tooltip:
+			'''
+			The Summoner Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	Mage_t2: {
+		DisplayName: Sorcerer Emblem
+		Tooltip:
+			'''
+			Increase +15% magic damage.
+			Basic class - Tier 2.
+			'''
+	}
+
+	Battlemage_t1: {
+		DisplayName: Battlemage Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase +10% melee damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	Battlemage_t2: {
+		DisplayName: Battlemage Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase +15% melee damage.
+			Sorcerer Specialization class - Tier 2.
+			'''
+	}
+
+	Battlemage_t3: {
+		DisplayName: Battlemage Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase +20% melee damage.
+			Sorcerer Specialization class - Tier 3.
+			'''
+	}
+
+	Battlemage_t4: {
+		DisplayName: Battlemage Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase +25% melee damage.
+			Sorcerer Specialization class - Tier 4.
+			'''
+	}
+
+	Battlemage_t5: {
+		DisplayName: Battlemage Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase +30% melee damage.
+			Sorcerer Specialization class - Tier 5.
+			'''
+	}
+
+	Mystic_t1: {
+		DisplayName: Mystic Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase +10% summon damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	Mystic_t2: {
+		DisplayName: Mystic Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase +15% summon damage.
+			Sorcerer Specialization class - Tier 2.
+			'''
+	}
+
+	Mystic_t3: {
+		DisplayName: Mystic Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase +20% summon damage.
+			Sorcerer Specialization class - Tier 3.
+			'''
+	}
+
+	Mystic_t4: {
+		DisplayName: Mystic Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase +25% summon damage.
+			Sorcerer Specialization class - Tier 4.
+			'''
+	}
+
+	Mystic_t5: {
+		DisplayName: Mystic Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase +30% summon damage.
+			Sorcerer Specialization class - Tier 5.
+			'''
+	}
+
+	RuneKnight_t1: {
+		DisplayName: Rune Knight Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase +10% ranged damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	RuneKnight_t2: {
+		DisplayName: Rune Knight Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase +15% ranged damage.
+			Sorcerer Specialization class - Tier 2.
+			'''
+	}
+
+	RuneKnight_t3: {
+		DisplayName: Rune Knight Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase +20% ranged damage.
+			Sorcerer Specialization class - Tier 3.
+			'''
+	}
+
+	RuneKnight_t4: {
+		DisplayName: Rune Knight Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase +25% ranged damage.
+			Sorcerer Specialization class - Tier 4.
+			'''
+	}
+
+	RuneKnight_t5: {
+		DisplayName: Rune Knight Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase +30% ranged damage.
+			Sorcerer Specialization class - Tier 5.
+			'''
+	}
+
+	Wizard_t1: {
+		DisplayName: Wizard Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	Wizard_t2: {
+		DisplayName: Wizard Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Sorcerer Specialization class - Tier 2.
+			'''
+	}
+
+	Wizard_t3: {
+		DisplayName: Wizard Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Sorcerer Specialization class - Tier 3.
+			'''
+	}
+
+	Wizard_t4: {
+		DisplayName: Wizard Emblem
+		Tooltip:
+			'''
+			Increase +45% magic damage.
+			Sorcerer Specialization class - Tier 4.
+			'''
+	}
+
+	Wizard_t5: {
+		DisplayName: Wizard Emblem
+		Tooltip:
+			'''
+			Increase +50% magic damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	Ranged_t2: {
+		DisplayName: Ranger Emblem
+		Tooltip:
+			'''
+			Increase +15% ranged damage.
+			Basic class - Tier 2.
+			'''
+	}
+
+	Archer_t1: {
+		DisplayName: Archer Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Ranger Specialization class - Tier 1.
+			'''
+	}
+
+	Archer_t2: {
+		DisplayName: Archer Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Ranger Specialization class - Tier 2.
+			'''
+	}
+
+	Archer_t3: {
+		DisplayName: Archer Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Ranger Specialization class - Tier 3.
+			'''
+	}
+
+	Archer_t4: {
+		DisplayName: Archer Emblem
+		Tooltip:
+			'''
+			Increase +45% magic damage.
+			Ranger Specialization class - Tier 4.
+			'''
+	}
+
+	Archer_t5: {
+		DisplayName: Archer Emblem
+		Tooltip:
+			'''
+			Increase +50% magic damage.
+			Ranger Specialization class - Tier 5.
+			'''
+	}
+
+	Tactical_t1: {
+		DisplayName: Tactical Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Increase +10% magic damage.
+			Ranger Specialization class - Tier 1.
+			'''
+	}
+
+	Tactical_t2: {
+		DisplayName: Tactical Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Increase +15% magic damage.
+			Ranger Specialization class - Tier 2.
+			'''
+	}
+
+	Tactical_t3: {
+		DisplayName: Tactical Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Increase +20% magic damage.
+			Ranger Specialization class - Tier 3.
+			'''
+	}
+
+	Tactical_t4: {
+		DisplayName: Tactical Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Increase +25% magic damage.
+			Ranger Specialization class - Tier 4.
+			'''
+	}
+
+	Tactical_t5: {
+		DisplayName: Tactical Emblem
+		Tooltip:
+			'''
+			Increase +40% ranged damage.
+			Increase +30% magic damage.
+			Ranger Specialization class - Tier 5.
+			'''
+	}
+
+	Thief_t1: {
+		DisplayName: Thief Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Increase +10% melee damage.
+			Ranger Specialization class - Tier 1.
+			'''
+	}
+
+	Thief_t2: {
+		DisplayName: Thief Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Increase +15% melee damage.
+			Ranger Specialization class - Tier 2.
+			'''
+	}
+
+	Thief_t3: {
+		DisplayName: Thief Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Increase +20% melee damage.
+			Ranger Specialization class - Tier 3.
+			'''
+	}
+
+	Thief_t4: {
+		DisplayName: Thief Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Increase +25% melee damage.
+			Ranger Specialization class - Tier 4.
+			'''
+	}
+
+	Thief_t5: {
+		DisplayName: Thief Emblem
+		Tooltip:
+			'''
+			Increase +40% ranged damage.
+			Increase +30% melee damage.
+			Ranger Specialization class - Tier 5.
+			'''
+	}
+
+	WildHunter_t1: {
+		DisplayName: Wild Hunter Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Increase +10% summon damage.
+			Ranger Specialization class - Tier 1.
+			'''
+	}
+
+	WildHunter_t2: {
+		DisplayName: Wild Hunter Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Increase +15% summon damage.
+			Ranger Specialization class - Tier 2.
+			'''
+	}
+
+	WildHunter_t3: {
+		DisplayName: Wild Hunter Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Increase +20% summon damage.
+			Ranger Specialization class - Tier 3.
+			'''
+	}
+
+	WildHunter_t4: {
+		DisplayName: Wild Hunter Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Increase +25% summon damage.
+			Ranger Specialization class - Tier 4.
+			'''
+	}
+
+	WildHunter_t5: {
+		DisplayName: Wild Hunter Emblem
+		Tooltip:
+			'''
+			Increase +40% ranged damage.
+			Increase +30% melee damage.
+			Ranger Specialization class - Tier 5.
+			'''
+	}
+
+	Beastmaster_t1: {
+		DisplayName: Beastmaster Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Summoner specialization class - Tier 1.
+			'''
+	}
+
+	Beastmaster_t2: {
+		DisplayName: Beastmaster Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Summoner specialization class - Tier 2.
+			'''
+	}
+
+	Beastmaster_t3: {
+		DisplayName: Beastmaster Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Summoner specialization class - Tier 3.
+			'''
+	}
+
+	Beastmaster_t4: {
+		DisplayName: Beastmaster Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Summoner specialization class - Tier 4.
+			'''
+	}
+
+	Beastmaster_t5: {
+		DisplayName: Beastmaster Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Summoner specialization class - Tier 5.
+			'''
+	}
+
+	DragonKnight_t1: {
+		DisplayName: Dragon Knight Emblem
+		Tooltip:
+			'''
+			Increase +20% summon damage.
+			Increase +10% melee damage.
+			Summoner specialization class - Tier 1.
+			'''
+	}
+
+	DragonKnight_t2: {
+		DisplayName: Dragon Knight Emblem
+		Tooltip:
+			'''
+			Increase +25% summon damage.
+			Increase +15% melee damage.
+			Summoner specialization class - Tier 2.
+			'''
+	}
+
+	DragonKnight_t3: {
+		DisplayName: Dragon Knight Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Increase +20% melee damage.
+			Summoner specialization class - Tier 3.
+			'''
+	}
+
+	DragonKnight_t4: {
+		DisplayName: Dragon Knight Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Increase +25% melee damage.
+			Summoner specialization class - Tier 4.
+			'''
+	}
+
+	DragonKnight_t5: {
+		DisplayName: Dragon Knight Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Increase +30% melee damage.
+			Summoner specialization class - Tier 5.
+			'''
+	}
+
+	Druid_t1: {
+		DisplayName: Druid Emblem
+		Tooltip:
+			'''
+			Increase +20% summon damage.
+			Increase +10% ranged damage.
+			Summoner specialization class - Tier 1.
+			'''
+	}
+
+	Druid_t2: {
+		DisplayName: Druid Emblem
+		Tooltip:
+			'''
+			Increase +25% summon damage.
+			Increase +15% ranged damage.
+			Summoner specialization class - Tier 2.
+			'''
+	}
+
+	Druid_t3: {
+		DisplayName: Druid Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Increase +20% ranged damage.
+			Summoner specialization class - Tier 3.
+			'''
+	}
+
+	Druid_t4: {
+		DisplayName: Druid Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Increase +25% ranged damage.
+			Summoner specialization class - Tier 4.
+			'''
+	}
+
+	Druid_t5: {
+		DisplayName: Druid Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Increase +30% ranged damage.
+			Summoner specialization class - Tier 5.
+			'''
+	}
+
+	MonsterKnight_t1: {
+		DisplayName: Monster Knight Emblem
+		Tooltip:
+			'''
+			Increase +20% summon damage.
+			Increase +10% magic damage.
+			Summoner specialization class - Tier 1.
+			'''
+	}
+
+	MonsterKnight_t2: {
+		DisplayName: Monster Knight Emblem
+		Tooltip:
+			'''
+			Increase +25% summon damage.
+			Increase +15% magic damage.
+			Summoner specialization class - Tier 2.
+			'''
+	}
+
+	MonsterKnight_t3: {
+		DisplayName: Monster Knight Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Increase +20% magic damage.
+			Summoner specialization class - Tier 3.
+			'''
+	}
+
+	MonsterKnight_t4: {
+		DisplayName: Monster Knight Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Increase +25% magic damage.
+			Summoner specialization class - Tier 4.
+			'''
+	}
+
+	MonsterKnight_t5: {
+		DisplayName: Monster Knight Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Increase +30% magic damage.
+			Summoner specialization class - Tier 5.
+			'''
+	}
+
+	Summoner_t2: {
+		DisplayName: Summoner Emblem
+		Tooltip:
+			'''
+			Increase +15% summon damage.
+			Basic class - Tier 2.
+			'''
+	}
+
+	Assassin_t1: {
+		DisplayName: Assassin Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase +10% ranged damage.
+			Warrior specialization class - Tier 1.
+			'''
+	}
+
+	Assassin_t2: {
+		DisplayName: Assassin Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase +15% ranged damage.
+			Warrior specialization class - Tier 2.
+			'''
+	}
+
+	Assassin_t3: {
+		DisplayName: Assassin Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase +20% ranged damage.
+			Warrior specialization class - Tier 3.
+			'''
+	}
+
+	Assassin_t4: {
+		DisplayName: Assassin Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase +25% ranged damage.
+			Warrior specialization class - Tier 4.
+			'''
+	}
+
+	Assassin_t5: {
+		DisplayName: Assassin Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase +30% ranged damage.
+			Warrior specialization class - Tier 5.
+			'''
+	}
+
+	Barbarian_t1: {
+		DisplayName: Barbarian Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Warrior specialization class - Tier 1.
+			'''
+	}
+
+	Barbarian_t2: {
+		DisplayName: Barbarian Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Warrior specialization class - Tier 2.
+			'''
+	}
+
+	Barbarian_t3: {
+		DisplayName: Barbarian Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Warrior specialization class - Tier 3.
+			'''
+	}
+
+	Barbarian_t4: {
+		DisplayName: Barbarian Emblem
+		Tooltip:
+			'''
+			Increase +45% melee damage.
+			Warrior specialization class - Tier 4.
+			'''
+	}
+
+	Barbarian_t5: {
+		DisplayName: Barbarian Emblem
+		Tooltip:
+			'''
+			Increase +50% melee damage.
+			Warrior specialization class - Tier 5.
+			'''
+	}
+
+	DarkKnight_t1: {
+		DisplayName: Dark Knight Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase +10% summon damage.
+			Warrior specialization class - Tier 1.
+			'''
+	}
+
+	DarkKnight_t2: {
+		DisplayName: Dark Knight Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase +15% summon damage.
+			Warrior specialization class - Tier 2.
+			'''
+	}
+
+	DarkKnight_t3: {
+		DisplayName: Dark Knight Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase +20% summon damage.
+			Warrior specialization class - Tier 3.
+			'''
+	}
+
+	DarkKnight_t4: {
+		DisplayName: Dark Knight Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase +25% summon damage.
+			Warrior specialization class - Tier 4.
+			'''
+	}
+
+	DarkKnight_t5: {
+		DisplayName: Dark Knight Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase +30% summon damage.
+			Warrior specialization class - Tier 5.
+			'''
+	}
+
+	Spellblade_t1: {
+		DisplayName: Spellblade Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase +10% magic damage.
+			Warrior specialization class - Tier 1.
+			'''
+	}
+
+	Spellblade_t2: {
+		DisplayName: Spellblade Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase +15% magic damage.
+			Warrior specialization class - Tier 2.
+			'''
+	}
+
+	Spellblade_t3: {
+		DisplayName: Spellblade Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase +20% magic damage.
+			Warrior specialization class - Tier 3.
+			'''
+	}
+
+	Spellblade_t4: {
+		DisplayName: Spellblade Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase +25% magic damage.
+			Warrior specialization class - Tier 4.
+			'''
+	}
+
+	Spellblade_t5: {
+		DisplayName: Spellblade Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase +30% magic damage.
+			Warrior specialization class - Tier 5.
+			'''
+	}
+
+	Warrior_t2: {
+		DisplayName: Warrior Emblem
+		Tooltip:
+			'''
+			Increase +15% melee damage.
+			Basic class - Tier 2.
+			'''
+	}
+
+	ArchmageOfWar: {
+		DisplayName: Archmage Of War Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase +60% melee damage.
+			Sorcerer Evolution class
+			'''
+	}
+
+	Archwizard: {
+		DisplayName: Archwizard Emblem
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Sorcerer Evolution class
+			'''
+	}
+
+	EthericEnchanter: {
+		DisplayName: Etheric Enchanter Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase +60% summon damage.
+			Sorcerer Evolution class
+			'''
+	}
+
+	RunicWarlord: {
+		DisplayName: Runic Warlord Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase +60% ranged damage.
+			Sorcerer Evolution class
+			'''
+	}
+
+	BeastmasterRanger: {
+		DisplayName: Beastmaster Ranger Emblem
+		Tooltip:
+			'''
+			Increase +70% ranged damage.
+			Increase +60% summon damage.
+			Ranger Evolution class
+			'''
+	}
+
+	MasterMarksman: {
+		DisplayName: Master Marksman Emblem
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Ranger Evolution class
+			'''
+	}
+
+	Shadowmaster: {
+		DisplayName: Shadowmaster Emblem
+		Tooltip:
+			'''
+			Increase +70% ranged damage.
+			Increase +60% melee damage.
+			Ranger Evolution class
+			'''
+	}
+
+	StrategistCommander: {
+		DisplayName: Strategist Commander Emblem
+		Tooltip:
+			'''
+			Increase +70% ranged damage.
+			Increase +60% magic damage.
+			Ranger Evolution class
+			'''
+	}
+
+	AbyssalChampion: {
+		DisplayName: Abyssal Champion Emblem
+		Tooltip:
+			'''
+			Increase +70% summon damage.
+			Increase +60% magic damage.
+			Summoner Evolution class
+			'''
+	}
+
+	NaturesAvatar: {
+		DisplayName: Natures Avatar Emblem
+		Tooltip:
+			'''
+			Increase +70% summon damage.
+			Increase +60% ranged damage.
+			Summoner Evolution class
+			'''
+	}
+
+	PrimalWarden: {
+		DisplayName: Primal Warden Emblem
+		Tooltip:
+			'''
+			Increase +80% summon damage.
+			Summoner Evolution class
+			'''
+	}
+
+	Wyrmlord: {
+		DisplayName: Wyrmlord Emblem
+		Tooltip:
+			'''
+			Increase +70% summon damage.
+			Increase +60% melee damage.
+			Summoner Evolution class
+			'''
+	}
+
+	ArcaneBladeMaster: {
+		DisplayName: Arcane Blade Master Emblem
+		Tooltip:
+			'''
+			Increase +70% melee damage.
+			Increase +60% magic damage.
+			Warrior Evolution class
+			'''
+	}
+
+	DreadKnight: {
+		DisplayName: Dread Knight Emblem
+		Tooltip:
+			'''
+			Increase +70% melee damage.
+			Increase +60% summon damage.
+			Warrior Evolution class
+			'''
+	}
+
+	RageLord: {
+		DisplayName: Rage Lord Emblem
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Warrior Evolution class
+			'''
+	}
+
+	ShadowReaver: {
+		DisplayName: Shadow Reaver Emblem
+		Tooltip:
+			'''
+			Increase +70% melee damage.
+			Increase +60% ranged damage.
+			Warrior Evolution class
+			'''
+	}
+
+	MindEssence: {
+		DisplayName: Mind Essence
+		Tooltip: Distilled Mind Essence of Nebula Pillar, useful for creating evolution classes
+	}
+
+	StarEssence: {
+		DisplayName: Star Essence
+		Tooltip: Distilled Star Essence of Stardust Pillar, useful for creating evolution classes
+	}
+
+	StrengthEssence: {
+		DisplayName: Strength Essence
+		Tooltip: Distilled Strenght Essence of Solar Pillar, useful for creating evolution classes
+	}
+
+	VoidEssence: {
+		DisplayName: Void Essence
+		Tooltip: Distilled Void Essence of Vortex Pillar, useful for creating evolution classes
+	}
+
+	DivinityBlood: {
+		Tooltip: Distilled Blood Essence of Moon Lord, useful for creating transformation classes
+		DisplayName: Divinity Blood
+	}
+
+	VoidShadowlord: {
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase +70% ranged damage.
+			Warrior Transformation class
+			'''
+		DisplayName: Void Shadowlord Emblem
+	}
+
+	FuryOverlord: {
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Warrior Transformation class
+			'''
+		DisplayName: Fury Overlord Emblem
+	}
+
+	CelestialSpellblade: {
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase +70% magic damage.
+			Warrior Transformation class
+			'''
+		DisplayName: Celestial Spellblade Emblem
+	}
+
+	AbyssalOverlord: {
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase +70% summoner damage.
+			Warrior Transformation class
+			'''
+		DisplayName: Abyssal Overlord Emblem
+	}
+
+	GuardianOfTheWilds: {
+		Tooltip:
+			'''
+			Increase +90% summon damage.
+			Summoner Transformation class
+			'''
+		DisplayName: Guardian Of The Wilds Emblem
+	}
+
+	ElementalArbiter: {
+		Tooltip:
+			'''
+			Increase +80% summon damage.
+			Increase +70% ranged damage.
+			Summoner Transformation class
+			'''
+		DisplayName: Elemental Arbiter Emblem
+	}
+
+	DragonSovereign: {
+		Tooltip:
+			'''
+			Increase +80% summon damage.
+			Increase +70% melee damage.
+			Summoner Transformation class
+			'''
+		DisplayName: Dragon Sovereign Emblem
+	}
+
+	DarklordConqueror: {
+		Tooltip:
+			'''
+			Increase +80% summon damage.
+			Increase +70% magic damage.
+			Summoner Transformation class
+			'''
+		DisplayName: Darklord Conqueror Emblem
+	}
+
+	TacticalOverlord: {
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Increase +70% magic damage.
+			Ranger Transformation class
+			'''
+		DisplayName: Tactical Overlord Emblem
+	}
+
+	NightshadeSovereign: {
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Increase +70% melee damage.
+			Ranger Transformation class
+			'''
+		DisplayName: Nightshade Sovereign Emblem
+	}
+
+	DivineSharpshooter: {
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Ranger Transformation class
+			'''
+		DisplayName: Divine Sharpshooter Emblem
+	}
+
+	ApexPredatorRanger: {
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Increase +70% summon damage.
+			Ranger Transformation class
+			'''
+		DisplayName: Apex Predator Ranger Emblem
+	}
+
+	WarbringerArchmage: {
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase +70% melee damage.
+			Sorcerer Transformation class
+			'''
+		DisplayName: Warbringer Archmage Emblem
+	}
+
+	SupremeMagus: {
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Sorcerer Transformation class
+			'''
+		DisplayName: Supreme Magus Emblem
+	}
+
+	RunicSovereign: {
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase +70% ranged damage.
+			Sorcerer Transformation class
+			'''
+		DisplayName: Runic Sovereign Emblem
+	}
+
+	AstralEnchanterSupreme: {
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase +70% summon damage.
+			Sorcerer Transformation class
+			'''
+		DisplayName: Astral Enchanter Supreme Emblem
+	}
+
+	FateOfTheRanger: {
+		DisplayName: Fate Of The Creator Emblem
+		Tooltip:
+			'''
+			Increase +110% ranged damage.
+			Increase +100% magic damage.
+			Increase +100% meele damage.
+			Increase +100% summon damage.
+			Increase +100% rogue damage.
+			Increase the aggro by 900.
+			Increase damage reduction by 80%.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Creator class.
+			'''
+	}
+
+	FateOfTheSorcerer: {
+		DisplayName: Fate Of The Creator Emblem
+		Tooltip:
+			'''
+			Increase +110% magic damage.
+			Increase +100% ranged damage.
+			Increase +100% meele damage.
+			Increase +100% summon damage.
+			Increase +100% rogue damage.
+			Increase the aggro by 900.
+			Increase damage reduction by 80%.
+			Mana cost reduced of 50%.
+			Sorcerer Creator class.
+			'''
+	}
+
+	FateOfTheSummoner: {
+		DisplayName: Fate Of The Creator Emblem
+		Tooltip:
+			'''
+			Increase +110% summon damage.
+			Increase +100% ranged damage.
+			Increase +100% meele damage.
+			Increase +100% magic damage.
+			Increase +100% rogue damage.
+			Increase the aggro by 900.
+			Increase damage reduction by 80%.
+			Increase the minion slots of 6.
+			Summoner Creator class.
+			'''
+	}
+
+	FateOfTheWarrior: {
+		DisplayName: Fate Of The Creator Emblem
+		Tooltip:
+			'''
+			Increase +110% melee damage.
+			Increase +100% ranged damage.
+			Increase +100% summon damage.
+			Increase +100% magic damage.
+			Increase +100% rogue damage.
+			Increase the aggro by 900.
+			Increase damage reduction by 80%.
+			Increase +50% melee attack speed.
+			Warrior Creator class.
+			'''
+	}
+
+	ArcaneSovereignLord: {
+		DisplayName: Arcane Sovereign Lord
+		Tooltip:
+			'''
+			Increase +100% magic damage.
+			Sorcerer Divinity class
+			'''
+	}
+
+	CataclysmicArchon: {
+		DisplayName: Cataclysmic Archon
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase +80% melee damage.
+			Sorcerer Divinity class
+			'''
+	}
+
+	EtherealEnchanterOverlord: {
+		DisplayName: Ethereal Enchanter Overlord
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase +80% summon damage.
+			Sorcerer Divinity class
+			'''
+	}
+
+	RunicEmperorAscedant: {
+		DisplayName: Runic Emperor Ascedant
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase +80% ranged damage.
+			Sorcerer Divinity class
+			'''
+	}
+
+	CelestialMarksmanLord: {
+		DisplayName: Celestial Marksman Lord
+		Tooltip:
+			'''
+			Increase +100% ranged damage.
+			Ranger Divinity class
+			'''
+	}
+
+	PrimalHunterKing: {
+		DisplayName: Primal Hunter King
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Increase +80% summon damage.
+			Ranger Divinity class
+			'''
+	}
+
+	ShadowMonarchAscedant: {
+		DisplayName: Shadow Monarch Ascedant
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Increase +80% melee damage.
+			Ranger Divinity class
+			'''
+	}
+
+	StrategistWarlordSupreme: {
+		DisplayName: Strategist Warlord Supreme
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Increase +80% magic damage.
+			Ranger Divinity class
+			'''
+	}
+
+	AbyssalWarlord: {
+		DisplayName: Abyssal Warlord
+		Tooltip:
+			'''
+			Increase +90% summon damage.
+			Increase +80% magic damage.
+			Summoner Divinity class
+			'''
+	}
+
+	ElementalOverlord: {
+		DisplayName: Elemental Overlord
+		Tooltip:
+			'''
+			Increase +90% summon damage.
+			Increase +80% ranged damage.
+			Summoner Divinity class
+			'''
+	}
+
+	PrimordialSentinel: {
+		DisplayName: Primordial Sentinel
+		Tooltip:
+			'''
+			Increase +100% summon damage.
+			Summoner Divinity class
+			'''
+	}
+
+	WyrmEmperor: {
+		DisplayName: Wyrm Emperor
+		Tooltip:
+			'''
+			Increase +90% summon damage.
+			Increase +80% melee damage.
+			Summoner Divinity class
+			'''
+	}
+
+	AstralBladeMagus: {
+		DisplayName: Astral Blade Magus
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Increase +80% magic damage.
+			Warrior Divinity class
+			'''
+	}
+
+	DreadAbyssalTyrant: {
+		DisplayName: Dread Abyssal Tyrant
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Increase +80% summon damage.
+			Warrior Divinity class
+			'''
+	}
+
+	EclipsedShadowSovereign: {
+		DisplayName: Eclipsed Shadow Sovereign
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Increase +80% ranged damage.
+			Warrior Divinity class
+			'''
+	}
+
+	WrathfulOverlordSupreme: {
+		DisplayName: Wrathful Overlord Supreme
+		Tooltip:
+			'''
+			Increase +100% melee damage.
+			Warrior Divinity class
+			'''
+	}
+
+	FateEssence: {
+		DisplayName: Fate Essence
+		Tooltip: Distilled essence of the Creator, useful for creating the Creator class.
+	}
+
+	GalaxyEssence: {
+		DisplayName: Galaxy Essence
+		Tooltip: Distilled essence of cataclysmatic powers, useful for creating divinity classes.
+	}
+
+	Marine_t1: {
+		DisplayName: Marine Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Specialization Variant class - Tier 1
+			'''
+	}
+
+	Marine_t2: {
+		DisplayName: Marine Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Specialization Variant class - Tier 2
+			'''
+	}
+
+	Marine_t3: {
+		DisplayName: Marine Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Specialization Variant class - Tier 3
+			'''
+	}
+
+	Marine_t4: {
+		DisplayName: Marine Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Specialization Variant class - Tier 4
+			'''
+	}
+
+	Marine_t5: {
+		DisplayName: Marine Emblem
+		Tooltip:
+			'''
+			Increase +40% ranged damage.
+			Gives the player a 25% chance to not consume ammo with any ranged weapon
+			Ranger Specialization Variant class - Tier 5
+			'''
+	}
+
+	Viking_t1: {
+		DisplayName: Viking Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase +10% melee attack speed.
+			Barbarian Specialization Variant class - Tier 1
+			'''
+	}
+
+	Viking_t2: {
+		DisplayName: Viking Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase +15% melee attack speed.
+			Barbarian Specialization Variant class - Tier 2
+			'''
+	}
+
+	Viking_t3: {
+		DisplayName: Viking Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase +20% melee attack speed.
+			Barbarian Specialization Variant class - tier 3
+			'''
+	}
+
+	Viking_t4: {
+		DisplayName: Viking Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase +25% melee attack speed.
+			Barbarian Specialization Variant class - Tier 4
+			'''
+	}
+
+	Viking_t5: {
+		DisplayName: Viking Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase +30% melee attack speed.
+			Barbarian Specialization Variant class - Tier 5
+			'''
+	}
+
+	Apprentice_t1: {
+		DisplayName: Apprentice Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Mana cost reduced of 10%.
+			Wizard Specialization Variant class - Tier 1
+			'''
+	}
+
+	Apprentice_t2: {
+		DisplayName: Apprentice Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Mana cost reduced of 15%.
+			Wizard Specialization Variant class - Tier 2
+			'''
+	}
+
+	Apprentice_t3: {
+		DisplayName: Apprentice Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Mana cost reduced of 20%.
+			Wizard Specialization Variant class - Tier 3
+			'''
+	}
+
+	Apprentice_t4: {
+		DisplayName: Apprentice Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Mana cost reduced of 25%.
+			Wizard Specialization Variant class - Tier 4
+			'''
+	}
+
+	Apprentice_t5: {
+		DisplayName: Apprentice Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Mana cost reduced of 30%.
+			Wizard Specialization Variant class - Tier 5
+			'''
+	}
+
+	Necromancer_t1: {
+		DisplayName: Necromancer Emblem
+		Tooltip:
+			'''
+			Increase +20% summon damage.
+			Increase the minion slots of 1.
+			Beastmaster Specialization Variant class - Tier 1
+			'''
+	}
+
+	Necromancer_t2: {
+		DisplayName: Necromancer Emblem
+		Tooltip:
+			'''
+			Increase +25% summon damage.
+			Increase the minion slots of 2.
+			Beastmaster Specialization Variant class - Tier 2
+			'''
+	}
+
+	Necromancer_t3: {
+		DisplayName: Necromancer Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Increase the minion slots of 3.
+			Beastmaster Specialization Variant class - Tier 3
+			'''
+	}
+
+	Necromancer_t4: {
+		DisplayName: Necromancer Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Increase the minion slots of 4.
+			Beastmaster Specialization Variant class - Tier 4
+			'''
+	}
+
+	Necromancer_t5: {
+		DisplayName: Necromancer Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Increase the minion slots of 5.
+			Beastmaster Specialization Variant class - Tier 5
+			'''
+	}
+
+	Tank_Core: {
+		DisplayName: Tank Core
+		Tooltip:
+			'''
+			The Tank Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	TankEmblem: {
+		DisplayName: Tank Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase damage reduction by 10%.
+			'''
+	}
+
+	Tank_t1: {
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase damage reduction by 5%.
+			Tank Basic Class - Tier 1.
+			'''
+		DisplayName: Tank Emblem
+	}
+
+	Paladin_t5: {
+		Tooltip:
+			'''
+			Increase the aggro by 400.
+			Increase the damage reduction by 35%.
+			Tank Specialization Class - Tier 5.
+			'''
+		DisplayName: Paladin Emblem
+	}
+
+	Paladin_t4: {
+		Tooltip:
+			'''
+			Increase the aggro by 350.
+			Increase the damage reduction by 30%.
+			Tank Specialization Class - Tier 4.
+			'''
+		DisplayName: Paladin Emblem
+	}
+
+	Paladin_t3: {
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase the damage reduction by 25%.
+			Tank Specialization Class - Tier 3.
+			'''
+		DisplayName: Paladin Emblem
+	}
+
+	Paladin_t2: {
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase the damage reduction by 20%.
+			Tank Specialization Class - Tier 2.
+			'''
+		DisplayName: Paladin Emblem
+	}
+
+	Paladin_t1: {
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase the damage reduction by 15%.
+			Tank Specialization Class - Tier 1.
+			'''
+		DisplayName: Paladin Emblem
+	}
+
+	Tank_t2: {
+		DisplayName: Tank Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase the damage reduction by 10%.
+			Tank Basic Class - Tier 2.
+			'''
+	}
+
+	ShieldBearer: {
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase the damage reduction 40%.
+			Tank Evolution Class.
+			'''
+		DisplayName: Shield Bearer Emblem
+	}
+
+	FateOfTheTank: {
+		DisplayName: Fate Of The Tank Emblem
+		Tooltip:
+			'''
+			Increase +110% summon damage.
+			Increase the aggro by 800
+			Increase the damage reduction by 80%.
+			Tank Creator class.
+			'''
+	}
+
+	IroncladSentinel: {
+		DisplayName: Ironclad Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Tank Divinity Class.
+			'''
+	}
+
+	BastionKnight: {
+		DisplayName: Bastion Knight Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Tank Transformation Class.
+			'''
+	}
+
+	Guardian_t1: {
+		DisplayName: Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Increase +10% summon damage.
+			Tank Specialization Class - Tier 1.
+			'''
+	}
+
+	Guardian_t2: {
+		DisplayName: Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Increase +15% summon damage.
+			Tank Specialization Class - Tier 2.
+			'''
+	}
+
+	Guardian_t3: {
+		DisplayName: Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase +20% summon damage.
+			Increase the damage reduction by 25%.
+			Tank Specialization Class - Tier 3.
+			'''
+	}
+
+	Guardian_t4: {
+		DisplayName: Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase +25% summon damage.
+			Increase the damage reduction by 30%.
+			Tank Specialization Class - Tier 4.
+			'''
+	}
+
+	Guardian_t5: {
+		DisplayName: Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase +30% summon damage.
+			Increase the damage reduction by 35%.
+			Tank Specialization Class - Tier 5.
+			'''
+	}
+
+	CelestialWarder: {
+		DisplayName: Celestial Warder Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase +80% summon damage.
+			Increase the damage reduction by 50%.
+			Tank Divinity Class.
+			'''
+	}
+
+	ArcaneWarden: {
+		DisplayName: Arcane Warden Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase +60% summon damage.
+			Increase the damage reduction by 40%.
+			Tank Evolution Class.
+			'''
+	}
+
+	SummonerOfTheSentinels: {
+		DisplayName: Summoner Of The Sentinels Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase +70% summon damage.
+			Increase the damage reduction by 45%.
+			Tank Transformation Class.
+			'''
+	}
+
+	Masochist_t1: {
+		DisplayName: Masochist Emblem
+		Tooltip:
+			'''
+			Take +10% damage
+			Masochist Class.
+			'''
+	}
+
+	Masochist_t2: {
+		DisplayName: Masochist Emblem
+		Tooltip:
+			'''
+			Take +20% damage
+			Masochist Class.
+			'''
+	}
+
+	Masochist_t3: {
+		DisplayName: Masochist Emblem
+		Tooltip:
+			'''
+			Take +30% damage
+			Masochist Class.
+			'''
+	}
+
+	Masochist_t4: {
+		DisplayName: Masochist Emblem
+		Tooltip:
+			'''
+			Take +40% damage
+			Masochist Class.
+			'''
+	}
+
+	Masochist_t5: {
+		DisplayName: Masochist Emblem
+		Tooltip:
+			'''
+			Take +50% damage
+			Masochist Class.
+			'''
+	}
+
+	GuardianOfArcaneDominion: {
+		DisplayName: Guardian of Arcane Dominion Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase +80% summon damage.
+			Increase the damage reduction by 50%.
+			Tank Divinity Class.
+			'''
+	}
+
+	GuardianOfWar: {
+		DisplayName: Guardian of War Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase +80% melee damage.
+			Increase the damage reduction by 50%.
+			Tank Divinity Class.
+			'''
+	}
+
+	WardOfTheUntamed: {
+		DisplayName: Ward of the Untamed Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase +80% ranged damage.
+			Increase the damage reduction by 50%.
+			Tank Divinity Class.
+			'''
+	}
+
+	Battlemaster: {
+		DisplayName: Battlemaster Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase +60% melee damage.
+			Increase the damage reduction by 40%.
+			Tank Evolution Class.
+			'''
+	}
+
+	MysticGuardian: {
+		DisplayName: Mystic Guardian Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase +60% magic damage.
+			Increase the damage reduction by 40%.
+			Tank Evolution Class.
+			'''
+	}
+
+	VanguardHuntsman: {
+		DisplayName: Vanguard Huntsman Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase +60% ranged damage.
+			Increase the damage reduction by 40%.
+			Tank Evolution Class.
+			'''
+	}
+
+	Sentinel_t1: {
+		DisplayName: Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +10% melee damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Tank Specialization Class - Tier 1
+			'''
+	}
+
+	Sentinel_t2: {
+		DisplayName: Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase +15% melee damage.
+			Increase the damage reduction by 20%.
+			Tank Specialization Class - Tier 2
+			'''
+	}
+
+	Sentinel_t3: {
+		DisplayName: Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase +20% melee damage.
+			Increase the damage reduction by 25%.
+			Tank Specialization Class - Tier 3
+			'''
+	}
+
+	Sentinel_t4: {
+		DisplayName: Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase +25% melee damage.
+			Increase the damage reduction by 30%.
+			Tank Specialization Class - Tier 4
+			'''
+	}
+
+	Sentinel_t5: {
+		DisplayName: Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase +30% melee damage.
+			Increase the damage reduction by 35%.
+			Tank Specialization Class - Tier 5
+			'''
+	}
+
+	Spellshield_t1: {
+		DisplayName: Spellshield Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase +10% magic damage.
+			Increase the damage reduction by 15%.
+			Tank Specialization Class - Tier 1
+			'''
+	}
+
+	Spellshield_t2: {
+		DisplayName: Spellshield Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase +15% melee damage.
+			Increase the damage reduction by 20%.
+			Tank Specialization Class - Tier 2
+			'''
+	}
+
+	Spellshield_t3: {
+		DisplayName: Spellshield Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase +20% melee damage.
+			Increase the damage reduction by 25%.
+			Tank Specialization Class - Tier 3
+			'''
+	}
+
+	Spellshield_t4: {
+		DisplayName: Spellshield Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase +25% melee damage.
+			Increase the damage reduction by 30%.
+			Tank Specialization Class - Tier 4
+			'''
+	}
+
+	Spellshield_t5: {
+		DisplayName: Spellshield Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase +30% melee damage.
+			Increase the damage reduction by 35%.
+			Tank Specialization Class - Tier 5
+			'''
+	}
+
+	Wildward_t1: {
+		DisplayName: Wildward Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase +10% ranged damage.
+			Increase the damage reduction by 15%.
+			Tank Specialization Class - Tier 1
+			'''
+	}
+
+	Wildward_t2: {
+		DisplayName: Wildward Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase +15% ranged damage.
+			Increase the damage reduction by 20%.
+			Tank Specialization Class - Tier 2
+			'''
+	}
+
+	Wildward_t3: {
+		DisplayName: Wildward Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase +20% ranged damage.
+			Increase the damage reduction by 25%.
+			Tank Specialization Class - Tier 3
+			'''
+	}
+
+	Wildward_t4: {
+		DisplayName: Wildward Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase +25% ranged damage.
+			Increase the damage reduction by 30%.
+			Tank Specialization Class - Tier 4
+			'''
+	}
+
+	Wildward_t5: {
+		DisplayName: Wildward Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase +30% ranged damage.
+			Increase the damage reduction by 35%.
+			Tank Specialization Class - Tier 5
+			'''
+	}
+
+	ArcaneTitan: {
+		DisplayName: Arcane Titan Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase +70% magic damage.
+			Increase the damage reduction by 45%.
+			Tank Transformation Class.
+			'''
+	}
+
+	FrontierStalwart: {
+		DisplayName: Frontier Stalwart Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase +70% ranged damage.
+			Increase the damage reduction by 45%.
+			Tank Transformation Class.
+			'''
+	}
+
+	IroncladWarlord: {
+		DisplayName: Ironclad Warlord Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase +70% melee damage.
+			Increase the damage reduction by 45%.
+			Tank Transformation Class.
+			'''
+	}
+
+	Skull_Core: {
+		DisplayName: Skull Core
+		Tooltip:
+			'''
+			The Masochist Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	MageguardianSupreme: {
+		DisplayName: Mageguardian Supreme Emblem
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Sorcerer Divinity class.
+			'''
+	}
+
+	SorcerousGuardian: {
+		DisplayName: Sorcerous Guardian Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Sorcerer Evolution class.
+			'''
+	}
+
+	ArcaneSentinel_t1: {
+		DisplayName: Arcane Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Sorcerer Specialization class - Tier 1
+			'''
+	}
+
+	ArcaneSentinel_t2: {
+		DisplayName: Arcane Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Sorcerer Specialization class - Tier 2
+			'''
+	}
+
+	ArcaneSentinel_t3: {
+		DisplayName: Arcane Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Sorcerer Specialization class - Tier 3
+			'''
+	}
+
+	ArcaneSentinel_t4: {
+		DisplayName: Arcane Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase the aggro by 250.
+			Increase the damage reduction by 30%.
+			Sorcerer Specialization class - Tier 4
+			'''
+	}
+
+	ArcaneSentinel_t5: {
+		DisplayName: Arcane Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Sorcerer Specialization class - Tier 5
+			'''
+	}
+
+	MysticBastion: {
+		DisplayName: Mystic Bastion Emblem
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Sorcerer Transformation class.
+			'''
+	}
+
+	GuardianOfTheWildfront: {
+		DisplayName: Guardian Of The Wildfront Emblem
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Ranger Divinity class.
+			'''
+	}
+
+	WildernessGuardian: {
+		DisplayName: Wilderness Guardian Emblem
+		Tooltip:
+			'''
+			Increase +70% ranged damage.
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Ranger Evolution class.
+			'''
+	}
+
+	SentinelRanger_t1: {
+		DisplayName: Sentinel Ranger Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Ranger Specialization class - Tier 1
+			'''
+	}
+
+	SentinelRanger_t2: {
+		DisplayName: Sentinel Ranger Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Ranger Specialization class - Tier 2
+			'''
+	}
+
+	SentinelRanger_t3: {
+		DisplayName: Sentinel Ranger Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Ranger Specialization class - Tier 3
+			'''
+	}
+
+	SentinelRanger_t4: {
+		DisplayName: Sentinel Ranger Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Increase the damage reduction by 30%.
+			Ranger Specialization class - Tier 4
+			'''
+	}
+
+	SentinelRanger_t5: {
+		DisplayName: Sentinel ranged Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Ranger Specialization class - Tier 5
+			'''
+	}
+
+	VanguardWarden: {
+		DisplayName: Vanguard Warden Emblem
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Ranger Transformation class.
+			'''
+	}
+
+	ShieldbearerExarch: {
+		DisplayName: Shieldbearer Exarch Emblem
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Warrior Divinity class.
+			'''
+	}
+
+	GuardianChampion: {
+		DisplayName: Guardian Champion Emblem
+		Tooltip:
+			'''
+			Increase +70% melee damage.
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Warrior Evolution class.
+			'''
+	}
+
+	WarboundSentinel_t1: {
+		DisplayName: Warbound Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Warrior Specialization class - Tier 1
+			'''
+	}
+
+	WarboundSentinel_t2: {
+		DisplayName: Warbound Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Warrior Specialization class - Tier 2
+			'''
+	}
+
+	WarboundSentinel_t3: {
+		DisplayName: Warbound Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Warrior Specialization class - Tier 3
+			'''
+	}
+
+	WarboundSentinel_t4: {
+		DisplayName: Warbound Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase the aggro by 250.
+			Increase the damage reduction by 30%.
+			Warrior Specialization class - Tier 4
+			'''
+	}
+
+	WarboundSentinel_t5: {
+		DisplayName: Warbound Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Warrior Specialization class - Tier 5
+			'''
+	}
+
+	SteelcladWarlord: {
+		DisplayName: Steelclad Warlord Emblem
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Warrior Transformation Class.
+			'''
+	}
+
+	Rogue_t1: {
+		DisplayName: Rogue Emblem
+		Tooltip:
+			'''
+			Increase +10% rogue damage.
+			Basic class - Tier 1.
+			'''
+	}
+
+	Rogue_t2: {
+		DisplayName: Rogue Emblem
+		Tooltip:
+			'''
+			Increase +15% rogue damage.
+			Basic class - Tier 2.
+			'''
+	}
+
+	Rogue_Core: {
+		DisplayName: Rogue Core
+		Tooltip:
+			'''
+			The Rogue Class Core, use with the Empty Class Emblem 
+			to create your own Class Emblem.
+			'''
+	}
+
+	Mythum: {
+		Tooltip: Item for craft Specialization Class - Tier 2
+		DisplayName: Mythum Bar
+	}
+
+	Demotane: {
+		Tooltip: Item for craft Basic Class - Tier 2
+		DisplayName: Demotane Bar
+	}
+
+	Coblum: {
+		Tooltip: Item for craft Specialization Class - Tier 1
+		DisplayName: Coblum Bar
+	}
+
+	Shadowstalker_t4: {
+		Tooltip:
+			'''
+			Increase +45% rogue damage.
+			Rogue Specialization class - Tier 4
+			'''
+		DisplayName: Shadowstalker Emblem
+	}
+
+	Shadowstalker_t3: {
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Rogue Specialization class - Tier 3
+			'''
+		DisplayName: Shadowstalker Emblem
+	}
+
+	Shadowstalker_t2: {
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Rogue Specialization class - Tier 2
+			'''
+		DisplayName: Shadowstalker Emblem
+	}
+
+	Shadowstalker_t1: {
+		DisplayName: Shadowstalker Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Rogue Specialization class - Tier 1
+			'''
+	}
+
+	ShadowSovereign: {
+		DisplayName: Shadow Sovereign Emblem
+		Tooltip:
+			'''
+			Increase +100% rogue damage.
+			Rogue Divinity class
+			'''
+	}
+
+	PhantomSaboteur: {
+		DisplayName: Phantom Saboteur Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Rogue Evolution class
+			'''
+	}
+
+	Shadowstalker_t5: {
+		DisplayName: Shadowstalker Emblem
+		Tooltip:
+			'''
+			Increase +50% rogue damage.
+			Rogue Specialization class - Tier 5
+			'''
+	}
+
+	AbyssalInfiltrator: {
+		DisplayName: Abyssal Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Rogue Transformation class
+			'''
+	}
+
+	FateOfTheRogue: {
+		DisplayName: Fate Of The Creator Emblem
+		Tooltip:
+			'''
+			Increase +110% ranged damage.
+			Rogue Creator class.
+			'''
+	}
+
+	SorcerousPhantomLord: {
+		DisplayName: Sorcerous Phantom Lord Emblem
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase +80% rogue damage.
+			Sorcerer Divinity class.
+			'''
+	}
+
+	ShadowSorcerer: {
+		DisplayName: Shadow Sorcerer Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase +60% rogue damage.
+			Sorcerer Evolution class.
+			'''
+	}
+
+	ArcaneInfiltrator_t1: {
+		DisplayName: Arcane Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase +10% rogue damage.
+			Sorcerer Specialization class - Tier 1.
+			'''
+	}
+
+	ArcaneInfiltrator_t2: {
+		DisplayName: Arcane Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase +15% rogue damage.
+			Sorcerer Specialization class - Tier 2.
+			'''
+	}
+
+	ArcaneInfiltrator_t3: {
+		DisplayName: Arcane Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase +20% rogue damage.
+			Sorcerer Specialization class - Tier 3.
+			'''
+	}
+
+	ArcaneInfiltrator_t4: {
+		DisplayName: Arcane Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase +25% rogue damage.
+			Sorcerer Specialization class - Tier 4.
+			'''
+	}
+
+	ArcaneInfiltrator_t5: {
+		DisplayName: Arcane Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase +30% rogue damage.
+			Sorcerer Specialization class - Tier 5.
+			'''
+	}
+
+	MysticShadowblade: {
+		DisplayName: Mystic Shadowblade Emblem
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase +70% rogue damage.
+			Sorcerer Transformation class.
+			'''
+	}
+
+	WardenOfTheSummoningRealms: {
+		DisplayName: Warden Of The Summoning Realms Emblem
+		Tooltip:
+			'''
+			Increase +90% magic damage.
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Summoner Divinity class.
+			'''
+	}
+
+	ArcaneWardenSentinel: {
+		DisplayName: Arcane Warden Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +70% magic damage.
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Summoner Evolution class.
+			'''
+	}
+
+	GuardianSummoner_t1: {
+		DisplayName: Guardian Summoner Emblem
+		Tooltip:
+			'''
+			Increase +20% magic damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Summoner Specialization class - Tier 1.
+			'''
+	}
+
+	GuardianSummoner_t2: {
+		DisplayName: Guardian Summoner Emblem
+		Tooltip:
+			'''
+			Increase +25% magic damage.
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Summoner Specialization class - Tier 2.
+			'''
+	}
+
+	GuardianSummoner_t3: {
+		DisplayName: Guardian Summoner Emblem
+		Tooltip:
+			'''
+			Increase +30% magic damage.
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Summoner Specialization class - Tier 3.
+			'''
+	}
+
+	GuardianSummoner_t4: {
+		DisplayName: Guardian Summoner Emblem
+		Tooltip:
+			'''
+			Increase +35% magic damage.
+			Increase the aggro by 250.
+			Increase the damage reduction by 30%.
+			Summoner Specialization class - Tier 4.
+			'''
+	}
+
+	GuardianSummoner_t5: {
+		DisplayName: Guardian Summoner Emblem
+		Tooltip:
+			'''
+			Increase +40% magic damage.
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Summoner Specialization class - Tier 5.
+			'''
+	}
+
+	TitanOfTheSummoned: {
+		DisplayName: Titan Of The Summoned Emblem
+		Tooltip:
+			'''
+			Increase +80% magic damage.
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Summoner Specialization class - Tier 1.
+			'''
+	}
+
+	ShadowRanger_t1: {
+		DisplayName: Shadow Ranger Emblem
+		Tooltip:
+			'''
+			Increase +20% ranged damage.
+			Increase +10% rogue damage.
+			Ranged Specialization class - Tier 1.
+			'''
+	}
+
+	ShadowRanger_t2: {
+		DisplayName: Shadow Ranger Emblem
+		Tooltip:
+			'''
+			Increase +25% ranged damage.
+			Increase +15% rogue damage.
+			Ranged Specialization class - Tier 2.
+			'''
+	}
+
+	ShadowRanger_t3: {
+		DisplayName: Shadow Ranger Emblem
+		Tooltip:
+			'''
+			Increase +30% ranged damage.
+			Increase +20% rogue damage.
+			Ranged Specialization class - Tier 3.
+			'''
+	}
+
+	ShadowRanger_t4: {
+		DisplayName: Shadow Ranger Emblem
+		Tooltip:
+			'''
+			Increase +35% ranged damage.
+			Increase +25% rogue damage.
+			Ranged Specialization class - Tier 4.
+			'''
+	}
+
+	ShadowRanger_t5: {
+		DisplayName: Shadow Ranger Emblem
+		Tooltip:
+			'''
+			Increase +40% ranged damage.
+			Increase +30% rogue damage.
+			Ranged Specialization class - Tier 5.
+			'''
+	}
+
+	RangerOfTheShadows: {
+		DisplayName: Ranger Of The Shadows Emblem
+		Tooltip:
+			'''
+			Increase +90% ranged damage.
+			Increase +80% rogue damage.
+			Ranged Divinity class.
+			'''
+	}
+
+	StealthStrider: {
+		DisplayName: Stealth Strider Emblem
+		Tooltip:
+			'''
+			Increase +70% ranged damage.
+			Increase +60% rogue damage.
+			Ranged Evolution class.
+			'''
+	}
+
+	PhantomPathfinder: {
+		DisplayName: Phantom Pathfinder Emblem
+		Tooltip:
+			'''
+			Increase +80% ranged damage.
+			Increase +70% rogue damage.
+			Ranged Transformation class.
+			'''
+	}
+
+	BladeWarrior_t1: {
+		DisplayName: Blade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +20% melee damage.
+			Increase +10% rogue damage.
+			Warrior Specialization class - Tier 1.
+			'''
+	}
+
+	BladeWarrior_t2: {
+		DisplayName: Blade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +25% melee damage.
+			Increase +15% rogue damage.
+			Warrior Specialization class - Tier 2.
+			'''
+	}
+
+	BladeWarrior_t3: {
+		DisplayName: Blade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +30% melee damage.
+			Increase +20% rogue damage.
+			Warrior Specialization class - Tier 3.
+			'''
+	}
+
+	BladeWarrior_t4: {
+		DisplayName: Blade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +35% melee damage.
+			Increase +25% rogue damage.
+			Warrior Specialization class - Tier 4.
+			'''
+	}
+
+	BladeWarrior_t5: {
+		DisplayName: Blade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +40% melee damage.
+			Increase +30% rogue damage.
+			Warrior Specialization class - Tier 5.
+			'''
+	}
+
+	ShadowlordOfBattle: {
+		DisplayName: Shadowlord Of Battle Emblem
+		Tooltip:
+			'''
+			Increase +90% melee damage.
+			Increase +80% rogue damage.
+			Warrior Divinity class.
+			'''
+	}
+
+	ShadowbladeVanguard: {
+		DisplayName: Shadowblade Vanguard Emblem
+		Tooltip:
+			'''
+			Increase +70% melee damage.
+			Increase +60% rogue damage.
+			Warrior Evolution class.
+			'''
+	}
+
+	RogueWarlord: {
+		DisplayName: Rogue Warlord Emblem
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase +70% rogue damage.
+			Warrior Transformation class.
+			'''
+	}
+
+	ShadowSummoner_t1: {
+		DisplayName: Shadow Summoner Emblem
+		Tooltip:
+			'''
+			Increase +20% summon damage.
+			Increase +10% rogue damage.
+			Summoner Specialization class - Tier 1.
+			'''
+	}
+
+	ShadowSummoner_t2: {
+		DisplayName: Shadow Summoner Emblem
+		Tooltip:
+			'''
+			Increase +25% summon damage.
+			Increase +15% rogue damage.
+			Summoner Specialization class - Tier 2.
+			'''
+	}
+
+	ShadowSummoner_t3: {
+		DisplayName: Shadow Summoner Emblem
+		Tooltip:
+			'''
+			Increase +30% summon damage.
+			Increase +20% rogue damage.
+			Summoner Specialization class - Tier 3.
+			'''
+	}
+
+	ShadowSummoner_t4: {
+		DisplayName: Shadow Summoner Emblem
+		Tooltip:
+			'''
+			Increase +35% summon damage.
+			Increase +25% rogue damage.
+			Summoner Specialization class - Tier 4.
+			'''
+	}
+
+	ShadowSummoner_t5: {
+		DisplayName: Shadow Summoner Emblem
+		Tooltip:
+			'''
+			Increase +40% summon damage.
+			Increase +30% rogue damage.
+			Summoner Specialization class - Tier 5.
+			'''
+	}
+
+	ShadowlordOfDeception: {
+		DisplayName: Shadowlord Of Deception Emblem
+		Tooltip:
+			'''
+			Increase +90% summon damage.
+			Increase +80% rogue damage.
+			Summoner Divinity class.
+			'''
+	}
+
+	ShadowbladeInfiltrator: {
+		DisplayName: Shadowblade Infiltrator Emblem
+		Tooltip:
+			'''
+			Increase +70% summon damage.
+			Increase +60% rogue damage.
+			Summoner Evolution class.
+			'''
+	}
+
+	ArcanePhantomblade: {
+		DisplayName: Arcane Phantomblade Emblem
+		Tooltip:
+			'''
+			Increase +80% melee damage.
+			Increase +70% rogue damage.
+			Summoner Transformation class.
+			'''
+	}
+
+	Shadowguard_t1: {
+		DisplayName: Shadowguard Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Increase +10% rogue damage.
+			Tank Specialization class - Tier 1.
+			'''
+	}
+
+	Shadowguard_t2: {
+		DisplayName: Shadowguard Embelm
+		Tooltip:
+			'''
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Incrase +15% rogue damage.
+			Tank Specialization class - Tier 2.
+			'''
+	}
+
+	Shadowguard_t3: {
+		DisplayName: Shadowguard Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Incrase +20% rogue damage.
+			Tank Specialization class - Tier 3.
+			'''
+	}
+
+	Shadowguard_t4: {
+		DisplayName: Shadowguard Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 250.
+			Increase the damage reduction by 30%.
+			Incrase +25% rogue damage.
+			Tank Specialization class - Tier 4.
+			'''
+	}
+
+	Shadowguard_t5: {
+		DisplayName: Shadowguard Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Incrase +30% rogue damage.
+			Tank Specialization class - Tier 5.
+			'''
+	}
+
+	GuardianOfShadows: {
+		DisplayName: Guardian Of Shadows Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Increase +80% rogue damage.
+			Tank Divinity class.
+			'''
+	}
+
+	StealthSentinel: {
+		DisplayName: Stealth Sentinel Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Increase +60% rogue damage.
+			Tank Evolution class.
+			'''
+	}
+
+	ShadowfortressWarden: {
+		DisplayName: Shadowfortress Warden Emblem
+		Tooltip:
+			'''
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Increase +70% rogue damage.
+			Tank Transformation class.
+			'''
+	}
+
+	ShadowsteelSentinel_t1: {
+		DisplayName: Shadowsteel Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +20% rogue damage.
+			Increase the aggro by 100.
+			Increase the damage reduction by 15%.
+			Rogue Specialization class - Tier 1.
+			'''
+	}
+
+	ShadowsteelSentinel_t2: {
+		DisplayName: Shadowsteel Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +25% rogue damage.
+			Increase the aggro by 150.
+			Increase the damage reduction by 20%.
+			Rogue Specialization class - Tier 2.
+			'''
+	}
+
+	ShadowsteelSentinel_t3: {
+		DisplayName: Shadowsteel Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Increase the aggro by 200.
+			Increase the damage reduction by 25%.
+			Rogue Specialization class - Tier 3.
+			'''
+	}
+
+	ShadowsteelSentinel_t4: {
+		DisplayName: Shadowsteel Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Increase the aggro by 250.
+			Increase the damage reduction by 30%.
+			Rogue Specialization class - Tier 4.
+			'''
+	}
+
+	ShadowsteelSentinel_t5: {
+		DisplayName: Shadowsteel Sentinel Emblem
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Increase the aggro by 300.
+			Increase the damage reduction by 35%.
+			Rogue Specialization class - Tier 5.
+			'''
+	}
+
+	ShadowcloakProtector: {
+		DisplayName: Shadowcloak Protector Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Increase the aggro by 700.
+			Increase the damage reduction by 50%.
+			Rogue Divinity class.
+			'''
+	}
+
+	NightshadeGuardian: {
+		DisplayName: Nightshade Guardian Emblem
+		Tooltip:
+			'''
+			Increase +70% rogue damage.
+			Increase the aggro by 500.
+			Increase the damage reduction by 40%.
+			Rogue Evolution class.
+			'''
+	}
+
+	PhantomBulwark: {
+		DisplayName: Phantom Bulwark Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Increase the aggro by 600.
+			Increase the damage reduction by 45%.
+			Rogue Transformation class.
+			'''
+	}
+
+	ShadowmasterSummoner: {
+		DisplayName: Shadowmaster Summoner Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Increase +80% summon damage.
+			Rogue Divinity class.
+			'''
+	}
+
+	PhantomTrickster: {
+		DisplayName: Phantom Trickster Emblem
+		Tooltip:
+			'''
+			Increase +70% rogue damage.
+			Increase +60% summon damage.
+			Rogue Evolution class.
+			'''
+	}
+
+	Shadowweaver_t1: {
+		DisplayName: Shadowweaver Emblem
+		Tooltip:
+			'''
+			Increase +20% rogue damage.
+			Increase +10% summon damage.
+			Rogue Specialization class - Tier 1.
+			'''
+	}
+
+	Shadowweaver_t2: {
+		DisplayName: Shadowweaver Emblem
+		Tooltip:
+			'''
+			Increase +25% rogue damage.
+			Increase +15% summon damage.
+			Rogue Specialization class - Tier 2.
+			'''
+	}
+
+	Shadowweaver_t3: {
+		DisplayName: Shadowweaver Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Increase +20% summon damage.
+			Rogue Specialization class - Tier 3.
+			'''
+	}
+
+	Shadowweaver_t4: {
+		DisplayName: Shadowweaver Emblem
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Increase +25% summon damage.
+			Rogue Specialization class - Tier 4.
+			'''
+	}
+
+	Shadowweaver_t5: {
+		DisplayName: Shadowweaver Emblem
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Increase +30% summon damage.
+			Rogue Specialization class - Tier 5.
+			'''
+	}
+
+	ArcaneShadowdancer: {
+		DisplayName: Arcane Shadowdancer Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Increase +70% summon damage.
+			Rogue Transformation class.
+			'''
+	}
+
+	ShadowbladeWarrior_t1: {
+		DisplayName: Shadowblade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +20% rogue damage.
+			Increase +10% melee damage.
+			Rogue Specialization class - Tier 1.
+			'''
+	}
+
+	ShadowbladeWarrior_t2: {
+		DisplayName: Shadowblade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +25% rogue damage.
+			Increase +15% melee damage.
+			Rogue Specialization class - Tier 2.
+			'''
+	}
+
+	ShadowbladeWarrior_t3: {
+		DisplayName: Shadowblade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Increase +20% summon damage.
+			Rogue Specialization class - Tier 3.
+			'''
+	}
+
+	ShadowbladeWarrior_t4: {
+		DisplayName: Shadowblade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Increase +25% melee damage.
+			Rogue Specialization class - Tier 4.
+			'''
+	}
+
+	ShadowbladeWarrior_t5: {
+		DisplayName: Shadowblade Warrior Emblem
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Increase +30% summon damage.
+			Rogue Specialization class - Tier 5.
+			'''
+	}
+
+	Goldum: {
+		DisplayName: Goldum Bar
+		Tooltip: Item for craft Class Cores.
+	}
+
+	TwilightGuardianSupreme: {
+		DisplayName: Twilight Guardian Supreme Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Increase +80% melee damage.
+			Rogue Divinity class.
+			'''
+	}
+
+	ShadowstrikerFury: {
+		DisplayName: Shadowstriker Fury Emblem
+		Tooltip:
+			'''
+			Increase +70% rogue damage.
+			Increase +60% melee damage.
+			Rogue Evolution class.
+			'''
+	}
+
+	NightshadeVanquisher: {
+		DisplayName: Nightshade Vanquisher Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Increase +70% melee damage.
+			Rogue Transformation class.
+			'''
+	}
+
+	Shadowcaster_t1: {
+		DisplayName: Shadowcaster Emblem
+		Tooltip:
+			'''
+			Increase +20% rogue damage.
+			Increase +10% magic damage.
+			Rogue Specialization class - Tier 1.
+			'''
+	}
+
+	Shadowcaster_t2: {
+		DisplayName: Shadowcaster Emblem
+		Tooltip:
+			'''
+			Increase +25% rogue damage.
+			Increase +15% magic damage.
+			Rogue Specialization class - Tier 2.
+			'''
+	}
+
+	Shadowcaster_t3: {
+		DisplayName: Shadowcaster Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Increase +20% magic damage.
+			Rogue Specialization class - Tier 3.
+			'''
+	}
+
+	Shadowcaster_t4: {
+		DisplayName: Shadowcaster Emblem
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Increase +25% magic damage.
+			Rogue Specialization class - Tier 4.
+			'''
+	}
+
+	Shadowcaster_t5: {
+		DisplayName: Shadowcaster Emblem
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Increase +30% magic damage.
+			Rogue Specialization class - Tier 5.
+			'''
+	}
+
+	VeiledSpellbinder: {
+		DisplayName: Veiled Spellbinder Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Increase +80% magic damage.
+			Rogue Divinity class.
+			'''
+	}
+
+	WhisperingShade: {
+		DisplayName: Whispering Shade Emblem
+		Tooltip:
+			'''
+			Increase +70% rogue damage.
+			Increase +60% magic damage.
+			Rogue Evolution class.
+			'''
+	}
+
+	UmbralArchmage: {
+		DisplayName: Umbral Archmage Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Increase +70% magic damage.
+			Rogue Transformation class.
+			'''
+	}
+
+	Shadowhunter_t1: {
+		DisplayName: Shadowhunter Emblem
+		Tooltip:
+			'''
+			Increase +20% rogue damage.
+			Increase +10% ranged damage.
+			Rogue Specialization class - Tier 1.
+			'''
+	}
+
+	Shadowhunter_t2: {
+		DisplayName: Shadowhunter Emblem
+		Tooltip:
+			'''
+			Increase +25% rogue damage.
+			Increase +15% ranged damage.
+			Rogue Specialization class - Tier 2.
+			'''
+	}
+
+	Shadowhunter_t3: {
+		DisplayName: Shadowhunter Emblem
+		Tooltip:
+			'''
+			Increase +30% rogue damage.
+			Increase +20% ranged damage.
+			Rogue Specialization class - Tier 3.
+			'''
+	}
+
+	Shadowhunter_t4: {
+		DisplayName: Shadowhunter Emblem
+		Tooltip:
+			'''
+			Increase +35% rogue damage.
+			Increase +25% ranged damage.
+			Rogue Specialization class - Tier 4.
+			'''
+	}
+
+	Shadowhunter_t5: {
+		DisplayName: Shadowhunter Emblem
+		Tooltip:
+			'''
+			Increase +40% rogue damage.
+			Increase +30% ranged damage.
+			Rogue Specialization class - Tier 5.
+			'''
+	}
+
+	ShadowstalkerOfTheWilds: {
+		DisplayName: Shadowstalker of the Wilds Emblem
+		Tooltip:
+			'''
+			Increase +90% rogue damage.
+			Increase +80% ranged damage.
+			Rogue Divinity class.
+			'''
+	}
+
+	SilentTracker: {
+		DisplayName: Silent Tracker Emblem
+		Tooltip:
+			'''
+			Increase +70% rogue damage.
+			Increase +60% ranged damage.
+			Rogue Evolution class.
+			'''
+	}
+
+	PhantomRanger: {
+		DisplayName: Phantom Ranger Emblem
+		Tooltip:
+			'''
+			Increase +80% rogue damage.
+			Increase +70% ranged damage.
+			Rogue Transformation class.
+			'''
+	}
+}
